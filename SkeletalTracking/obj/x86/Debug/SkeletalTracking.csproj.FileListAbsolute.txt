@@ -1,0 +1,140 @@
+ows-ServerFoundation-Base-LanguagePack-Package" language="ja-JP" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="ko-KR" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="lt-LT" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="lv-LV" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="nb-NO" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="nl-NL" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="pl-PL" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="pt-BR" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="pt-PT" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="ro-RO" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="ru-RU" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="sk-SK" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="sl-SI" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="sr-Latn-CS" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="sv-SE" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="th-TH" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="tr-TR" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="uk-UA" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="zh-CN" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="zh-HK" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-ServerFoundation-Base-LanguagePack-Package" language="zh-TW" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="ar-SA" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="bg-BG" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="cs-CZ" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="da-DK" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="de-DE" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="el-GR" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="en-US" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="es-ES" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="et-EE" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="fi-FI" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="fr-FR" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="he-IL" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="hr-HR" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="hu-HU" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="it-IT" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="ja-JP" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="ko-KR" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="lt-LT" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="lv-LV" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="nb-NO" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="nl-NL" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="pl-PL" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="pt-BR" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="pt-PT" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="ro-RO" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="ru-RU" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="sk-SK" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="sl-SI" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="sr-Latn-CS" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="sv-SE" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="th-TH" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="tr-TR" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="uk-UA" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="zh-CN" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="zh-HK" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+<assemblyIdentity name="Microsoft-Windows-WindowsFoundation-LanguagePack-Package" language="zh-TW" version="6.1.7601.17514" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" buildType="release"/>
+</parent>
+<installerAssembly name="Microsoft-Windows-ServicingStack" version="6.0.0.0" language="neutral" processorArchitecture="amd64" versionScope="nonSxS" publicKeyToken="31bf3856ad364e35"/>
+<update name="3061518-362_neutral_PACKAGE">
+<package integrate="hidden">
+<assemblyIdentity name="Package_104_for_KB3061518" version="6.1.1.0" language="neutral" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35"/>
+</package>
+</update>
+</assembly>
+F:\desktop\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.exe
+F:\desktop\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.pdb
+C:\Users\suzan\Desktop\desktop\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.exe
+C:\Users\suzan\Desktop\desktop\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.pdb
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.exe
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.pdb
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.csprojResolveAssemblyReference.cache
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\MainWindow.baml
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\MainWindow.g.cs
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\App.g.cs
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking_MarkupCompile.cache
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.g.resources
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.Properties.Resources.resources
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.csproj.GenerateResource.Cache
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\SkeletalTracking.exe
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\SkeletalTracking.pdb
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\Microsoft.Expression.Drawing.dll
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+I:\kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.exe
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.pdb
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\SkeletalTracking.exe
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\SkeletalTracking.pdb
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\Microsoft.Expression.Drawing.dll
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.csprojResolveAssemblyReference.cache
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\MainWindow.baml
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\MainWindow.g.cs
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\App.g.cs
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking_MarkupCompile.cache
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.g.resources
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.Properties.Resources.resources
+J:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.csproj.GenerateResource.Cache
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.exe
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.pdb
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.csprojResolveAssemblyReference.cache
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\MainWindow.baml
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\MainWindow.g.cs
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\App.g.cs
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking_MarkupCompile.cache
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.g.resources
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.Properties.Resources.resources
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.csproj.GenerateResource.Cache
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\SkeletalTracking.exe
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\SkeletalTracking.pdb
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+F:\ \kinect robot\kinect robot\5.Skeletal Tracking\SkeletalTracking\SkeletalTracking\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\suzan\Desktop\desktop\Graduation project - team1\code\C#\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.exe
+C:\Users\suzan\Desktop\desktop\Graduation project - team1\code\C#\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.pdb
+C:\Users\suzan\Desktop\desktop\Graduation project - team1\code\C#\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.csprojResolveAssemblyReference.cache
+C:\Users\suzan\Desktop\desktop\Graduation project - team1\code\C#\SkeletalTracking\SkeletalTracking\obj\x86\Debug\App.g.cs
+C:\Users\suzan\Desktop\desktop\Graduation project - team1\code\C#\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking_MarkupCompile.cache
+I:\robot project prpgrams\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.exe
+I:\robot project prpgrams\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.pdb
+I:\robot project prpgrams\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.csprojResolveAssemblyReference.cache
+I:\robot project prpgrams\SkeletalTracking\SkeletalTracking\obj\x86\Debug\App.g.cs
+I:\robot project prpgrams\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking_MarkupCompile.cache
+I:\robot project prpgrams\SkeletalTracking\SkeletalTracking\obj\x86\Debug\MainWindow.baml
+I:\robot project prpgrams\SkeletalTracking\SkeletalTracking\obj\x86\Debug\MainWindow.g.cs
+I:\robot project prpgrams\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.g.resources
+I:\robot project prpgrams\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.Properties.Resources.resources
+I:\robot project prpgrams\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.csproj.GenerateResource.Cache
+I:\Graduation Project\Code\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.exe
+I:\Graduation Project\Code\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.pdb
+I:\Graduation Project\Code\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking.csprojResolveAssemblyReference.cache
+I:\Graduation Project\Code\SkeletalTracking\SkeletalTracking\obj\x86\Debug\App.g.cs
+I:\Graduation Project\Code\SkeletalTracking\SkeletalTracking\obj\x86\Debug\SkeletalTracking_MarkupCompile.cache
